@@ -1,0 +1,24 @@
+# Ignored folders and files in the root repository
+
+# Databases and large dependencies
+local_db/
+
+# Python virtual environment and caches
+backend/venv/
+backend/__pycache__/
+backend/routes/__pycache__/
+backend/services/__pycache__/
+backend/queries/__pycache__/
+backend/models/__pycache__/
+*.pyc
+
+# Local environment variables containing credentials
+backend/.env
+
+# Node dependencies and build folders
+frontend/node_modules/
+frontend/dist/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
