@@ -18,7 +18,7 @@ This application demonstrates the architectural and performance advantages of a 
 
 ## 🌐 Live Hosted Demo & Walkthrough
 *   **Hosted Application URL:** [https://wexaai-culinary.vercel.app/](https://wexaai-culinary.vercel.app/)
-*   **Walkthrough Video (YouTube/Loom):** `[Your Recording Link Here]`
+*   **Walkthrough Video (Google Drive):** [Walkthrough Recording Link](https://drive.google.com/file/d/10Nl-lIpm3TanDjDViHFA-b8ohslqTx5X/view?usp=sharing)
 
 ---
 
