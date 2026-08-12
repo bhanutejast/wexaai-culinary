@@ -17,7 +17,7 @@ This application demonstrates the architectural and performance advantages of a 
 ---
 
 ## 🌐 Live Hosted Demo & Walkthrough
-*   **Hosted Application URL:** `[Your Hosted Link Here - e.g., Vercel/Render/Fly.io]`
+*   **Hosted Application URL:** [https://wexaai-culinary.vercel.app/](https://wexaai-culinary.vercel.app/)
 *   **Walkthrough Video (YouTube/Loom):** `[Your Recording Link Here]`
 
 ---
